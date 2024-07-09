@@ -1,0 +1,174 @@
+/* header section style */
+.header-section{
+    width: 1440px;
+height: 652px;
+margin:0 auto;
+background-image: url(./B10A1-Challenge-Begins-main/assets/Hero-bg.png);
+background-repeat: no-repeat;
+background-position: center;
+margin-top: 50px;
+}
+.header-section-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 652px;
+
+
+}
+.header-section-title h1{
+    display:flex;
+    text-align: center;
+    margin-left: 350px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+}
+.header-section-title p{
+    display:flex;
+    text-align: center;
+    margin-left: 80px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+.header-section-button button{
+color:#ffffff;
+font-family: Azeret Mono;
+font-size: 30px;
+font-weight: 600;
+display:flex;
+background-color: black;
+border-radius: 5px;
+margin:50px;
+
+
+}
+.header-section-button a{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+
+}
+/* section 1 style */
+.section-1{
+    width: 1140px;
+height: 1395px;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+margin:0 auto;
+margin-top: 100px;
+}
+.section-1-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 1395px;
+
+
+}
+.section-1-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:300px ;
+    text-align: center;
+    
+
+}
+.para{
+    margin:0 auto;
+}
+.section-1-items-1{
+    display:flex;
+    width: 946px;
+height: 336px;
+}
+.section-1-items-1 img{
+    margin-top: 30px;
+}
+.section-1-item-1 {
+    margin-top: 20px;
+
+}
+ h1 {
+    margin-top: 20px;
+}
+p{
+    
+ margin-top: 40px;
+ margin-bottom: 40px;
+ 
+ 
+    
+}
+
+
+.section-1-items-2{
+    display:flex;
+    width: 946px;
+height: 336px;
+
+}
+.section-1-item-2{
+    margin-left: 200px;
+
+
+}
+.section-1-item-2 h2{
+    margin-top: 30px;
+}
+
+.section-1-items-3{
+    display:flex;
+    width: 946px;
+height: 336px;
+}
+.section-1-item-3{
+    margin-top:80px;
+}
+.section-1-image{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+button{
+    width: 150px;
+height: 48px;
+}
+
+/* section 2 style */
+.section-2{
+    display:flex;
+    width:1140px;
+height: 777px;
+flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.section-2 h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+}
+.section-2-title p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+}
+iframe{
+    width: 1140px;
+height: 614px;
+border-radius: 40px;
+}
