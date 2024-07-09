@@ -170,9 +170,10 @@ font-size: 16px;
 font-weight: 400;
 }
 iframe{
-    width: 1140px;
-height: 614px;
+    width: 1040px;
+height: 554px;
 border-radius: 40px;
+border:5px solid #ffffff;
 }
 
 /* section 3 style */
@@ -292,7 +293,7 @@ font-weight: 400;
     display:flex;
 }
 .footer-form input{
-    width: 548px;
+ width: 548px;
 height: 57px;
 box-sizing: border-box;
 
